@@ -1,4 +1,5 @@
-Stock Oracle
+# Stock Oracle
+
 This demo fetchs the stock information from API, and adds the stock info to blockchain; also allows to fetch the added stock information. 
 
 
